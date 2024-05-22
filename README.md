@@ -58,7 +58,7 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 
 <br> 
 
-<img src="https://via.placeholder.com/450x500?text=Before+BMI+Input" alt="Screenshot 1" height="500" width="450">
+<img src="https://github.com/ashrafulalam005/BMI-calculator-with-html-css-and-javascript/blob/main/necessary%20img/before%20input.png" height="500" width="450">
 
 <br> <br> 
 ## After Entering Data
