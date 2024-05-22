@@ -33,8 +33,8 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 ## Upcoming Feature
 <br> 
 
-- I am working on it so that I can make it more beautiful. 
-- Adding additional features.
+- I am working on it so that I can make it more detailed and advanced. 
+- Trying to add additional features.
 
 ## How to Use
 <br> 
