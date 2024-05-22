@@ -19,6 +19,7 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 - Responsive design for desktop and mobile devices.
 - Simple and intuitive user interface.
 - Instant calculation upon entering the data.
+- It shows your BMI, stage of your BMI and gives advice according to your BMI.
 - A lot of color animation.
 
 ## Input Ways
