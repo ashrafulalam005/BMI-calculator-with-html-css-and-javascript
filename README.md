@@ -61,11 +61,47 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 <img src="https://github.com/ashrafulalam005/BMI-calculator-with-html-css-and-javascript/blob/main/necessary%20img/before%20input.png" height="500" width="450">
 
 <br> <br> 
-## After Entering Data
+
+## Under Weight
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/BMI-calculator-with-html-css-and-javascript/blob/main/necessary%20img/under%20weight.png" height="500" width="420">
+
+<br> <br> 
+## Normal Weight
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/BMI-calculator-with-html-css-and-javascript/blob/main/necessary%20img/normal%20weight.png" height="500" width="420">
+
+<br> <br> 
+## Over Weight
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/BMI-calculator-with-html-css-and-javascript/blob/main/necessary%20img/overweight.png" height="500" width="420">
+
+<br> <br> 
+## Obesity Class I
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/BMI-calculator-with-html-css-and-javascript/blob/main/necessary%20img/obesity%201.png" height="500" width="420">
+
+<br> <br> 
+## Obesity Class II
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/BMI-calculator-with-html-css-and-javascript/blob/main/necessary%20img/obesity%202.png" height="500" width="420">
+
+<br> <br> 
+## Obesity Class III
 
 <br>
 
-<img src="https://via.placeholder.com/450x500?text=After+BMI+Input" alt="Screenshot 2" height="500" width="450">
+<img src="https://github.com/ashrafulalam005/BMI-calculator-with-html-css-and-javascript/blob/main/necessary%20img/obesity%203.png" height="500" width="420">
 
 <br> <br> 
 
