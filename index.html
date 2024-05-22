@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <form name="bmiForm">
+      <div class="bmi-calculator">
+        <h1>Calculate your BMI</h1>
+        <div class="bmi-calculator-weight">
+          <input
+            class="weight-slider"
+            name="realweight"
+            id="myWeight"
+            type="range"
+            min="25"
+            max="180"
+            value="60"
+          />
+          <p class="slider-label">
+            WEIGHT:
+            <input
+              name="inputWeight"
+              id="inputWeight"
+              type="number"
+              value="60"
+              min="25"
+              max="180"
+              oninput="showValWeight(this.value)"
+            />
+            <span id="weight"></span> kg
+          </p>
+        </div>
+        <div class="bmi-calculator-height">
+          <input
+            class="height-slider"
+            name="realheight"
+            id="myHeight"
+            type="range"
+            min="100"
+            max="220"
+            value="160"
+          />
+          <p class="slider-label">
+            HEIGHT:
+            <input
+              name="inputHeight"
+              id="inputHeight"
+              type="number"
+              value="160"
+              min="100"
+              max="220"
+              oninput="showValHeight(this.value)"
+            />
+            <span id="height"></span> cm
+          </p>
+        </div>
+        <input
+          class="button"
+          type="button"
+          value="Calculate"
+          onclick="calculateBmi()"
+        />
+        <p>
+          <strong>Your BMI:</strong>
+          <span id="yourbmi"></span>
+        </p>
+        <p id="evaluationMessage"></p>
+      </div>
+    </form>
+    <script src="script.js"></script>
+  </body>
+</html>
