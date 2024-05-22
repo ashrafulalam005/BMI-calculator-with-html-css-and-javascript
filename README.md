@@ -41,9 +41,10 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 
 1. Open the `index.html` file in your web browser.
 2. Enter your weight and height in the input fields.
-3. Then press the "Calculate BMI" button.
+3. Then press the "Calculate" button.
 4. The application will instantly display your BMI and category.
-5. Enter different weight and height and again press the "Calculate BMI" button. It will show you the updated BMI instantly.
+5. It shows your BMI, stage of your BMI and gives advice according to your BMI.
+6. Enter different weight and height and again press the "Calculate" button. It will show you the updated BMI instantly.
 
 ## Technologies Used
 <br> 
