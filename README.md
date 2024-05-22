@@ -24,7 +24,7 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 
 ## Input Ways
 - **You can input your weight and height in 3 ways.**
-- **Firstly :** You can use the slider.
+- **Firstly :** You can use the slider right to left or left to right.
 - **Secondly :** You can use the dropdown or upward arrow.
 - **Thirdly :** You can directly input from the keyboard. 
 
