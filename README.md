@@ -4,7 +4,7 @@
 
 ## Overview
 <br> 
-Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple BMI Calculator application implemented using HTML, CSS, and JavaScript. It allows users to input their weight and height to calculate their BMI and provide a category based on the BMI value. See this project and tell me if I can improve something or if it is good.
+Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple BMI Calculator application implemented using HTML, CSS, and JavaScript. It allows users to input their weight and height to calculate their BMI and provide a category based on the BMI value. According to BMI it gives different advices. See this project and tell me if I can improve something or if it is good.
 
 ## Credits
 <br> 
@@ -20,6 +20,14 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 - Simple and intuitive user interface.
 - Instant calculation upon entering the data.
 - A lot of color animation.
+
+## Input Ways
+- **You can input your weight and height in 3 ways.**
+- **Firstly :** You can use the slider.
+- **Secondly :** You can use the dropdown or upward arrow.
+- **Thirdly :** You can directly input from the keyboard. 
+
+
 
 ## Upcoming Feature
 <br> 
