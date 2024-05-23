@@ -48,6 +48,7 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 4. The application will instantly display your BMI and category.
 5. It shows your BMI, stage of your BMI and gives advice according to your BMI.
 6. Enter different weight and height and again press the "Calculate" button. It will show you the updated BMI instantly.
+<br>
 
 ## Technologies Used
 <br> 
