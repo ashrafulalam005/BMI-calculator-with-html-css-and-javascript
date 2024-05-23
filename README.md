@@ -57,6 +57,8 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 - **CSS3**
 - **JavaScript**
 
+<br> 
+
 ## Screenshots of the application
 <br> 
 
