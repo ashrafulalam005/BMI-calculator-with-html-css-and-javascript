@@ -21,6 +21,7 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 - Instant calculation upon entering the data.
 - It shows your BMI, stage of your BMI and gives advice according to your BMI.
 - A lot of color animation.
+<br>
 
 ## Input Ways
 - **You can input your weight and height in 3 ways.**
