@@ -4,20 +4,24 @@
 
 <br>   
 
-## Overview
-<br> 
-Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple BMI Calculator application implemented using HTML, CSS, and JavaScript. It allows users to input their weight and height to calculate their BMI and provides a category based on the BMI value. According to BMI it gives different advices. See this project and tell me if I can improve something or if it is good.
+# Overview
+<br>
+
+Hey there. I am **Ashraful Alam.** I am from **Chittagong, Bangladesh.** I am a passionate software developer. This is a simple **BMI Calculator** application implemented using **HTML, CSS, and JavaScript.** It allows users to input their weight and height to calculate their BMI and provides a category based on the BMI value. According to BMI it gives different advices. See this project and tell me if I can improve something or if it is good.
 
 <br> <br> 
 
-## Credits
+# Credits
 <br> 
 
-**Ashraful Alam** - Software Developer
-- International Islamic University Chittagong (IIUC)
+# Ashraful Alam
+- **Studying B.Sc. in Computer Science and Engineering**
+- **Institution: International Islamic University Chittagong (IIUC)**
+- **Time : July, 2023 - Prestent**
+
 <br>
 
-## Features
+# Features
 <br>
 
 - Accurate BMI calculation.
@@ -28,7 +32,9 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 - A lot of color animation.
 <br>
 
-## Input Ways
+# Input Ways
+<br>
+
 - **You can input your weight and height in 3 ways.**
 - **Firstly :** You can use the slider right to left or left to right.
 - **Secondly :** You can use the dropdown or upward arrow.
@@ -36,14 +42,14 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 
 <br> 
 
-## Upcoming Feature
+# Upcoming Feature
 <br> 
 
 - I am working on it so that I can make it more detailed and advanced. 
 - Trying to add additional features.
 <br>
 
-## How to Use
+# How to Use
 <br> 
 
 1. Open the `index.html` file in your web browser.
@@ -54,7 +60,7 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 6. Enter different weight and height and again press the "Calculate" button. It will show you the updated BMI instantly.
 <br>
 
-## Technologies Used
+# Technologies Used
 <br> 
 
 - **HTML5**
