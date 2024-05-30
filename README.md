@@ -35,10 +35,11 @@
 # Input Ways
 <br>
 
-- **You can input your weight and height in 3 ways.**
-- **Firstly :** You can use the slider right to left or left to right.
-- **Secondly :** You can use the dropdown or upward arrow.
-- **Thirdly :** You can directly input from the keyboard. 
+***- You can input your weight and height in 3 ways.***  
+***- Firstly: You can use the slider right to left or left to right.***  
+***- Secondly: You can use the dropdown or upward arrow.***  
+***- Thirdly: You can directly input from the keyboard.***
+
 
 <br> 
 
