@@ -1,6 +1,6 @@
 <br>    
 
-# BMI Calculator
+# BMI Calculator with html, css and javascript
 
 <br>   
 
