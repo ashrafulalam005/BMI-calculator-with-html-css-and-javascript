@@ -46,8 +46,8 @@
 # Upcoming Feature
 <br> 
 
-- I am working on it so that I can make it more detailed and advanced. 
-- Trying to add additional features.
+***- I am working on it so that I can make it more detailed and advanced.***  
+***- Trying to add additional features.***  
 <br>
 
 # How to Use
