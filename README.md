@@ -23,12 +23,13 @@
 # Features
 <br>
 
-- Accurate BMI calculation.
-- Responsive design for desktop and mobile devices.
-- Simple and intuitive user interface.
-- Instant calculation upon entering the data.
-- It shows your BMI, stage of your BMI and gives advice according to your BMI.
-- A lot of color animation.
+***- Accurate BMI calculation.***  
+***- Responsive design for desktop and mobile devices.***  
+***- Simple and intuitive user interface.***  
+***- Instant calculation upon entering the data.***  
+***- It shows your BMI, stage of your BMI and gives advice according to your BMI.***  
+***- A lot of color animation.***
+
 <br>
 
 # Input Ways
