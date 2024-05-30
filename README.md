@@ -7,7 +7,7 @@
 # Overview
 <br>
 
-Hey there. I am **Ashraful Alam.** I am from **Chittagong, Bangladesh.** I am a passionate software developer. This is a simple **BMI Calculator** application implemented using **HTML, CSS, and JavaScript.** It allows users to input their weight and height to calculate their BMI and provides a category based on the BMI value. According to BMI it gives different advices. See this project and tell me if I can improve something or if it is good.
+Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple BMI Calculator application implemented using HTML, CSS, and JavaScript. It allows users to input their weight and height to calculate their BMI and provides a category based on the BMI value. According to BMI it gives different advices. See this project and tell me if I can improve something or if it is good.
 
 <br> <br> 
 
