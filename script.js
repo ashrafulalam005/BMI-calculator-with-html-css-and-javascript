@@ -63,3 +63,4 @@ function calculateBmi() {
       "<b> Stage: </b>You are in Obesity Class III. <br> <b>Advice: </b> Seek medical advice for an <br> intensive weight loss plan.";
   }
 }
+
