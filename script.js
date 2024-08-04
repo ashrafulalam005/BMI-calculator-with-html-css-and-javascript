@@ -1,3 +1,4 @@
+
 let weightSlider = document.getElementById("myWeight");
 let weightOutput = document.getElementById("inputWeight");
 
