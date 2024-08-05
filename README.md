@@ -1,18 +1,17 @@
-
 <br> <br> <br> 
 
 # BMI Calculator with html, css and javascript
 
 <br>   
 
-# Overview
+# Overview 🔍
 <br>
 
 ***Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple BMI Calculator application implemented using HTML, CSS, and JavaScript. It allows users to input their weight and height to calculate their BMI and provides a category based on the BMI value. According to BMI it gives different advices. See this project and tell me if I can improve something or if it is good.***
 
 <br> <br> 
 
-# Credits
+# Credits 🙌
 <br> 
 
 # Ashraful Alam
@@ -21,7 +20,7 @@
 ***- Time : July, 2023 - Prestent***  
 <br>
 
-# Features
+# Features ✨
 <br>
 
 ***- Accurate BMI calculation.***  
@@ -31,6 +30,7 @@
 ***- It shows your BMI, stage of your BMI and gives advice according to your BMI.***  
 ***- A lot of color animation.***
 
+# Upcoming Features 🚀
 <br>
 
 # Input Ways
@@ -51,7 +51,7 @@
 ***- Trying to add additional features.***  
 <br>
 
-# How to Use
+# How to Use 🎮
 <br> 
 
 ***1. Open the `index.html` file in your web browser.***  
@@ -62,7 +62,7 @@
 ***6. Enter different weight and height and again press the "Calculate" button. It will show you the updated BMI instantly.***  
 <br>
 
-# Technologies Used
+# Technologies Used 💻
 <br> 
 
 - ***HTML5***  
@@ -71,7 +71,7 @@
 
 <br> 
 
-# Installation and Setup
+# Installation and Setup 🛠️
 <br>
 
 1. **Clone the repository to your local machine :**
