@@ -80,7 +80,7 @@
    https://ashrafulalam005.github.io/BMI-calculator-with-html-css-and-javascript/
 <br> 
 
-# Screenshots of the application
+# Screenshots of the application 🖼️
 <br> 
 
 ## Before Entering Data
