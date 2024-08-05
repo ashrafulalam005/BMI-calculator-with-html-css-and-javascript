@@ -1,3 +1,4 @@
+
 <br> <br> <br> 
 
 # BMI Calculator with html, css and javascript
@@ -73,7 +74,7 @@
 # Installation and Setup
 <br>
 
-1. **Clone the repository to your local machine:**
+1. **Clone the repository to your local machine :**
    ```bash
    git clone https://github.com/ashrafulalam005/BMI-calculator-with-html-css-and-javascript.git
 <br>
@@ -82,7 +83,7 @@
 
 <br>
 
-2. **Visit the link to play online:**
+2. **Visit the link to play online :**
    https://ashrafulalam005.github.io/BMI-calculator-with-html-css-and-javascript/
 <br> 
 
