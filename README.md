@@ -136,4 +136,3 @@
 <img src="https://github.com/ashrafulalam005/BMI-calculator-with-html-css-and-javascript/blob/main/necessary%20img/obesity%203.png" height="500" width="420">
 
 <br> <br> 
-
